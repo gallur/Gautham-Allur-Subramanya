@@ -1,7 +1,11 @@
 # Gautham Allur Subramanya
 ### Engineer | Microsoft R&D | Morgan Stanley | Carnegie Mellon University
 Feel free to browse my projects!
-# [Big Data Ecosystem](https://gallur.github.io/bigdata.md)
-# [ETL Pipeline](https://gallur.github.io/etl.md)
-# [AWS](https://gallur.github.io/aws.md)
-# [SQL](https://gallur.github.io/sql.md)
+# [ETL Pipeline for Android Application](https://gallur.github.io/ETL-Android-Application/project.html)
+### Stack : AndroidStudio, Java, MongoDB, Heroku, Glassfish Server, mLab, HTML, APIs
+### Description: Built an android application and custome webservice and sourced client + custom API data and stored in MongoDB. Built an analytics dashboard to retrieve data from MongoDB and showcase vital information + complete logs of usage of app.
+
+# [Google Page Rank Algorithm](https://gallur.github.io/GooglePageRank/project.html)
+### Stack : Python, MRJob, Hadoop, MapReduce
+### Description: Implemented the algorithm that made Google search succeed early on using Hadoop and MapReduce concepts.
+
