@@ -1,4 +1,3 @@
-# Gautham Allur Subramanya
 ### Engineer | Microsoft R&D | Morgan Stanley | Carnegie Mellon University
 Feel free to browse my projects!
 # [ETL Pipeline for Android Application](https://gallur.github.io/ETL-Android-Application/project.html)
